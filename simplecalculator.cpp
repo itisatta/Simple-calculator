@@ -13,8 +13,8 @@ int main()
     cout<<"Second number: ";
     cin >> num2 ;
 
-    cout<< "Plus is equal to " << num1 + num2;
-    cout<< "Minus is equal to " << num1 - num2 ;
+    cout<< "Plus is equal to " << num1 + num2 << endl ;
+    cout<< "Minus is equal to " << num1 - num2 << endl ;
     
     return 0;
 }
